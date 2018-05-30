@@ -79,7 +79,7 @@ public class MainApplication extends Application implements ReactApplication {
 import * as CacheManager from 'react-native-http-cache2';
 
 // invoke API directly when in need
-CacheManager.clear();
+CacheManager.clearCache();
 
 ```
 
