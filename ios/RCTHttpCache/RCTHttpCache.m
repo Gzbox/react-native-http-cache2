@@ -1,15 +1,8 @@
 //
 //  RCTHttpCache.m
 //  RCTHttpCache
-//
-//  Created by LvBingru on 12/30/15.
-//  Copyright © 2015 erica. All rights reserved.
-//
 
 #import <React/RCTHttpCache.h>
-#import <React/RCTImageLoader.h>
-#import <React/RCTImageCache.h>
-#import <React/RCTBridge.h>
 
 @implementation RCTHttpCache
 
