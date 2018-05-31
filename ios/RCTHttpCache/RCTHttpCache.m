@@ -2,7 +2,7 @@
 //  RCTHttpCache.m
 //  RCTHttpCache
 
-#import <React/RCTHttpCache.h>
+#import "RCTHttpCache.h"
 
 @implementation RCTHttpCache
 
